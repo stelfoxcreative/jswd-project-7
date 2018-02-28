@@ -1,0 +1,18 @@
+{
+  "name": "jswd-project-7",
+  "version": "1.0.0",
+  "description": "Twitter API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin Jones",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "moment": "^2.20.1",
+    "pug": "^2.0.0-rc.4",
+    "request": "^2.83.0",
+    "twit": "^2.2.9"
+  }
+}
